@@ -2,7 +2,7 @@ module.exports = {
 
   TELEGRAM_TOKEN: "7684047797:AAG8qofbRkoWJUzqFg38cWbGHM2Zt8F_WDY",
 
-  OWNER_ID: "7119529859",
+  OWNER_ID: "6104496385",
 
   BOT_NAME: "DDoS_ZyneBot", // tanpa @
 
